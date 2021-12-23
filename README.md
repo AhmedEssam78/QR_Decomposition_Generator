@@ -1,1 +1,1 @@
-# QR_Decomposition_Generator
+This project is mainly a linear-algebra-related-project that is taking any square matrix as its input, and computing QR decomposition with a specific inner product weights given by the user. The full description of the concept is attached in the description pdf file.
